@@ -1,4 +1,4 @@
-## Hi
+## Hi There
 
 ## My name is Michael Napitupulu
 - An undergraduated student in Informatics major at Del Institute of Technology
