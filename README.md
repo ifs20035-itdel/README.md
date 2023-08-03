@@ -2,8 +2,7 @@
 
 ## My name is Michael Napitupulu
 - An undergraduated student in Informatics major at Del Institute of Technology
-- Currently studies in Cloud Computing and DevOps field
-- Interested in FOSS Community and GNU-Linux enthusiast
+- I am currently learning Web Development
 
 [Get to know me!](mailto:michaelalbertnapitupulu@gmail.com)
 
